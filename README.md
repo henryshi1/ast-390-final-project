@@ -14,22 +14,24 @@ Python, LaTeX
 
 # File Descriptions
 All Jupyter Notebooks can be found in the **code** folder. Different conditions were simulated, and their results are discussed in the final report.
-| Title of Notebook | Outer Planets[^1] | Kuiper Belt[^2] | Scattered Disc | Planet 9[^4] |
+| Title of Notebook | Outer Planets^1 | Kuiper Belt^2 | Scattered Disc^3 | Planet 9^4 |
 |        ---        |      ---      |     ---     |      ---       |   ---    |
-| `Solar-System-extra-planet-v4-everything-control.ipynb` | X | X | X | Absent (control) |
-| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
-| `Solar-System-extra-planet-v4-everything-outer-planets-only-control.ipynb` | X |   |   | Absent (control) |
-| `Solar-System-extra-planet-v4-everything-outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) |
-| `Solar-System-extra-planet-v4-everything-Kuiper-Belt-only-control.ipynb` |   | X |   | Absent (control) |
-| `Solar-System-extra-planet-v4-everything-Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) |
-| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
-| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
+| `outer-planets-only-control.ipynb` | X |   |   | Absent (control) |
+| `outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) |
+| `Kuiper-Belt-only-control.ipynb` |   | X |   | Absent (control) |
+| `Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) |
+| `Scattered Disc-only-control.ipynb` |   |   | X | Absent (control) |
+| `Scattered Disc-only-exp.ipynb` |   |   | X | Present (experimental) |
+| `everything-control.ipynb` | X | X | X | Absent (control) |
+| `everything-exp.ipynb` | X | X | X | Present (experimental) |
 
-[^1]: Jupiter, Saturn, Uranus, Neptune
+^1 Jupiter, Saturn, Uranus, Neptune
 
-[^2]: Includes Eris and Sedna
+^2 Includes Eris and Sedna
 
-[^4]: Properties determined from Batygin et. al.
+^3 
+
+^4 Properties determined from Batygin et. al.
 
 Final report is **ast-390-final-report.pdf**.
 
