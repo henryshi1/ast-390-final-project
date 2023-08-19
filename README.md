@@ -12,11 +12,13 @@ To simulate the effects of a hypothetical "Planet 9" in the Kuiper Belt on Kuipe
 # Methodology
 
 Planet 9 is simulated with the properties given by Batygin & Brown et. al.
-|     Property    | Value |
-| --- | --- |
-| Semi-major axis | $a = 700$ AU |
-|   Eccentricity  | $e = 0.6$ |
-| Mass | $10\ M_\oplus$ |
+|      Property     |        Value         |
+|        ---        |          ---         |
+|  Semi-major axis  |     $a = 700$ AU     |
+|    Eccentricity   |       $e = 0.6$      |
+|       Mass        |    $10\ M_\oplus$    |
+|    Inclination    |    $i = 30^\circ$    |
+| Perihelion moment | $\omega = 150^\circ$ |
 
 # Background
 
