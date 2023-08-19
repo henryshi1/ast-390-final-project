@@ -43,8 +43,8 @@ All programs simulate for 10 million years.
 | `Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) |     |
 | `Scattered Disc-only-control.ipynb` |   |   | X | Absent (control) |     |
 | `Scattered Disc-only-exp.ipynb` |   |   | X | Present (experimental) |     |
-| `everything-control.ipynb` | X | X | X | Absent (control) |     |
-| `everything-exp.ipynb` | X | X | X | Present (experimental) |     |
+| `everything-control.ipynb` | X | X | X | Absent (control) | Unable to complete simulation |
+| `everything-exp.ipynb` | X | X | X | Present (experimental) | Unable to complete simulation |
 
 <sup>1</sup> Jupiter, Saturn, Uranus, Neptune
 
