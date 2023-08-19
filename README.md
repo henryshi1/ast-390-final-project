@@ -11,7 +11,7 @@ To simulate the effects of a hypothetical "Planet 9" in the Kuiper Belt on Kuipe
 
 # Methodology
 
-Planet 9 is simulated with the properties given by Batygin & Brown et. al.
+Planet 9 is simulated with the properties given by Batygin & Brown:
 |      Property     |        Value         |
 |        ---        |          ---         |
 |  Semi-major axis  |     $a = 700$ AU     |
@@ -48,11 +48,11 @@ All programs simulate for 10 million years.
 
 <sup>1</sup> Jupiter, Saturn, Uranus, Neptune
 
-<sup>2</sup> Includes Eris and Sedna
+<sup>2</sup> Includes Pluto, Eris, Sedna. Kuiper Belt object properties taken from NASA and McGill University.
 
-<sup>3</sup> 
+<sup>3</sup> Scattered Disc object properties given by Batygin et. al. and Batygin & Brown.
 
-<sup>4</sup> Properties determined from Batygin et. al.
+<sup>4</sup> Properties determined from Batygin & Brown.
 
 # Final Report
 Final report is **ast-390-final-report.pdf**.
