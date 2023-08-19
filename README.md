@@ -18,6 +18,12 @@ All Jupyter Notebooks can be found in the **code** folder. Different conditions 
 |        ---        |      ---      |     ---     |      ---       |   ---    |
 | `Solar-System-extra-planet-v4-everything-control.ipynb` | X | X | X | Absent (control) |
 | `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
+| `Solar-System-extra-planet-v4-everything-Kuiper-Belt-only-control.ipynb` | X | X | X | Absent (control) |
+| `Solar-System-extra-planet-v4-everything-Kuiper-Belt-only-exp.ipynb` | X | X | X | Present (experimental) |
+| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
+| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
+| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
+| `Solar-System-extra-planet-v4-everything-exp.ipynb` | X | X | X | Present (experimental) |
 
 [^1]: Jupiter, Saturn, Uranus, Neptune
 
