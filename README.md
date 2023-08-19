@@ -40,9 +40,9 @@ All programs simulate for 10 million years.
 | `outer-planets-only-control.ipynb` | X |   |   | Absent (control) | Unable to complete simulation |
 | `outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) | Unable to complete simulation |
 | `Kuiper-Belt-only-control.ipynb` |   | X |   | Absent (control) |     |
-| `Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) |     |
+| `Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) | No significant effect of Planet 9 on Kuiper Belt objects' semimajor axis, eccentricity, or perihelion parameter |
 | `Scattered Disc-only-control.ipynb` |   |   | X | Absent (control) |     |
-| `Scattered Disc-only-exp.ipynb` |   |   | X | Present (experimental) |     |
+| `Scattered Disc-only-exp.ipynb` |   |   | X | Present (experimental) | No significant effect of Planet 9 on Scatered Disc objects' semimajor axis. Significant effect on Scattered Disc objec eccentricity, or perihelion parameter. |
 | `everything-control.ipynb` | X | X | X | Absent (control) | Unable to complete simulation |
 | `everything-exp.ipynb` | X | X | X | Present (experimental) | Unable to complete simulation |
 
