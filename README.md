@@ -37,8 +37,8 @@ I used both control simulations (no Planet 9) and experimental simulations (Plan
 All programs simulate for 10 million years.
 | Title of Notebook | Outer Planets<sup>1</sup> | Kuiper Belt<sup>2</sup> | Scattered Disc<sup>3</sup> | Planet 9<sup>4</sup> | Results |
 |        ---        |      ---      |     ---     |      ---       |   ---    | --- |
-| `outer-planets-only-control.ipynb` | X |   |   | Absent (control) |     |
-| `outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) |     |
+| `outer-planets-only-control.ipynb` | X |   |   | Absent (control) | Unable to complete simulation |
+| `outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) | Unable to complete simulation |
 | `Kuiper-Belt-only-control.ipynb` |   | X |   | Absent (control) |     |
 | `Kuiper-Belt-only-exp.ipynb` |   | X |   | Present (experimental) |     |
 | `Scattered Disc-only-control.ipynb` |   |   | X | Absent (control) |     |
