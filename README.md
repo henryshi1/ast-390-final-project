@@ -14,7 +14,7 @@ Python, LaTeX
 
 # File Descriptions
 All Jupyter Notebooks can be found in the **code** folder. Different conditions were simulated, and their results are discussed in the final report.
-| Title of Notebook | Outer Planets^1 | Kuiper Belt^2 | Scattered Disc^3 | Planet 9^4 |
+| Title of Notebook | Outer Planets^1^ | Kuiper Belt^2^ | Scattered Disc^3^ | Planet 9^4^ |
 |        ---        |      ---      |     ---     |      ---       |   ---    |
 | `outer-planets-only-control.ipynb` | X |   |   | Absent (control) |
 | `outer-planets-only-exp.ipynb` | X |   |   | Present (experimental) |
@@ -25,13 +25,13 @@ All Jupyter Notebooks can be found in the **code** folder. Different conditions 
 | `everything-control.ipynb` | X | X | X | Absent (control) |
 | `everything-exp.ipynb` | X | X | X | Present (experimental) |
 
-^1 Jupiter, Saturn, Uranus, Neptune
+^1^ Jupiter, Saturn, Uranus, Neptune
 
-^2 Includes Eris and Sedna
+^2^ Includes Eris and Sedna
 
-^3 
+^3^ 
 
-^4 Properties determined from Batygin et. al.
+^4^ Properties determined from Batygin et. al.
 
 Final report is **ast-390-final-report.pdf**.
 
